@@ -1,0 +1,32 @@
+<svg id="e4F6jYZEyQ21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 200 200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+  project-id="3b0cc9a65eed481d822362a01cd5e133" export-id="f16cab5f5e854559b195afa5addbb465"
+  cached="false">
+  <g transform="translate(-15.219957 26.929238)">
+    <line x1="-31.571744" y1="-0.265309" x2="31.571744" y2="0.265309"
+      transform="translate(67.367022 67.681972)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="-20.694084" y1="9.020498" x2="20.694083" y2="3.714322"
+      transform="translate(119.63285 58.926782)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="-16.183836" y1="14.591982" x2="9.792732" y2="0.265308"
+      transform="translate(156.510769 48.049117)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="-17.534071" y1="22.020627" x2="0.530618" y2="-12.46704"
+      transform="translate(183.837572 25.763179)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g transform="translate(-15.219962 12.95056)">
+    <line x1="-31.571744" y1="0" x2="31.571744" y2="0" transform="translate(67.367022 100.580257)"
+      fill="none" stroke="#0B3487" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="-23.877789" y1="-4.112286" x2="17.510379" y2="-0.083023"
+      transform="translate(122.816556 104.692546)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="-25.445949" y1="-21.440381" x2="18.595308" y2="-8.174969"
+      transform="translate(165.772884 126.049905)" fill="none" stroke="#0B3487" stroke-width="10"
+      stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <path
+    d="M27.5,102.60541c0-40.04064,32.45936-72.5,72.5-72.5c13.81787,0,26.73287,3.86563,37.72258,10.57444-4.00446,4.25511-7.33857,9.14825-9.83362,14.51071-8.17705-4.82005-17.71009-7.58515-27.88896-7.58515-30.37566,0-55,24.62434-55,55s24.62434,55,55,55c12.19047,0,23.45463-3.96601,32.57258-10.67814c2.34879,5.43556,5.54927,10.41707,9.43325,14.77631-11.85114,8.43874-26.34889,13.40183-42.00582,13.40183-40.04064,0-72.5-32.45936-72.5-72.5h-.00001Z"
+    transform="translate(11.240813-2.60541)" fill="#0B3487" stroke-width="0" />
+</svg>
