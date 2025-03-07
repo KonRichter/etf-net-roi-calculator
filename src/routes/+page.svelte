@@ -57,7 +57,7 @@
 									Rent increase depending on insurance company's profits: Man with shovel doing
 									"construction work".
 								</p>
-								<p>Comes down to the decision: Do you want to buy 22,000€ for 11,300€?</p>
+								<p>Comes down to the decision: Do you want to buy 11,300€ for 22,000€?</p>
 							</div>
 						</details>
 						<details open>
@@ -66,7 +66,7 @@
 							>
 							<div class="mt-2 ml-3 flex flex-col items-start justify-center gap-y-2 text-gray-700">
 								<p>Bad value for money.</p>
-								<p>Comes down to the decision: Do you want to buy 22,000€ for 11,300€?</p>
+								<p>Comes down to the decision: Do you want to buy 11,300€ for 22,000€?</p>
 							</div>
 						</details>
 					</div>
